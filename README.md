@@ -112,7 +112,6 @@ http://localhost:8080/Secure_Chain/
 
 ## Author
 
-Diya Kharb
 Developed during IBM Internship with a focus on security architecture, cryptographic hashing, and backend implementation.
 
 
